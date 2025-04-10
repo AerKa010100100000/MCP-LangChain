@@ -1,0 +1,9 @@
+{
+    "rag": {
+        "command": "python",
+        "args": [
+            "src/server/server_rag.py"
+        ],
+        "transport": "stdio"
+    }
+}

@@ -1,0 +1,31 @@
+# 系统生成文件
+.DS_Store
+Thumbs.db
+.chainlit
+.files
+src/rag/thenlper/gte-large-zh
+
+# Python虚拟环境
+.venv/
+venv/
+
+# 项目临时缓存目录
+src/__pycache__/
+tests/__pycache__/
+
+# 编译生成文件
+*.pyc
+
+# 敏感配置文件
+.env
+
+# IDE相关配置目录
+.idea/
+.vscode/
+
+# 日志文件
+*.log
+
+# GitHub工作流缓存等（如有）
+.github/workflows/__pycache__/
+.github/workflows/*.pyc
